@@ -1,0 +1,66 @@
+
+# Windows Server 2019 Installation
+
+## Overview
+
+This document covers the installation of Windows Server 2019 in an Oracle VirtualBox virtual machine.
+
+The purpose of this setup was to create a virtual server environment for learning Windows Server administration and eventually working with Active Directory Domain Services (AD DS).
+
+## Technologies Used
+
+- Windows Server 2019
+- Oracle VirtualBox
+- Virtual Machine (VM)
+- Windows Server installation ISO
+
+## Installation Process
+
+### 1. Virtual Machine Setup
+
+Created a new virtual machine in Oracle VirtualBox to host Windows Server 2019.
+
+Configured the virtual machine with the necessary system resources and attached the Windows Server 2019 installation ISO.
+
+### 2. Windows Server Installation
+
+Booted the virtual machine using the Windows Server 2019 installation ISO.
+
+Followed the Windows Setup process to install the operating system.
+
+### 3. Initial Server Configuration
+
+After installation, accessed the Windows Server desktop and opened Server Manager.
+
+Server Manager provides a centralized interface for managing server roles, features, and system settings.
+
+### 4. Server Manager
+
+Verified that Windows Server was running successfully and accessed the Server Manager dashboard.
+
+This interface would later be used to manage server roles and configure additional services.
+
+## Screenshots
+
+### Server Manager Dashboard
+
+![Server Manager Dashboard](../screenshots/server-manager-dashboard.png)
+
+## Skills Practiced
+
+- Virtual Machine Configuration
+- Windows Server 2019 Installation
+- Server Manager Navigation
+- Basic Server Administration
+- Operating System Installation
+
+## Next Steps
+
+The next stage of this lab is to explore and configure additional Windows Server services, including:
+
+- Active Directory Domain Services (AD DS)
+- Domain Controller Configuration
+- DNS Server
+- User and Group Management
+- Group Policy Management
+
