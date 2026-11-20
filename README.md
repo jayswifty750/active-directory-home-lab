@@ -37,3 +37,10 @@ Screenshots documenting the installation and configuration process are available
 
 ## What I Learned
 Document the challenges you encountered, how you resolved them, and what you learned throughout the lab.
+
+## Documentation
+
+1. [Installation](installation.md)
+2. [Active Directory Configuration](active-directory.md)
+3. [User and Group Management](user-management.md)
+4. [Troubleshooting](troubleshooting.md)
